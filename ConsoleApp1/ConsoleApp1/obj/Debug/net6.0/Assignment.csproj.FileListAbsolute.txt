@@ -1,0 +1,15 @@
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Assignment.exe
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Assignment.deps.json
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Assignment.runtimeconfig.json
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Assignment.dll
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Assignment.pdb
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Assignment.dll
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Assignment.dll
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Assignment.pdb
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+D:\Cos4311\FactoryMethod\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Assignment.dll
