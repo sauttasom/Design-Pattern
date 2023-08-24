@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\bin\Debug\net7.0\Facade Pattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\bin\Debug\net7.0\Facade Pattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\bin\Debug\net7.0\Facade Pattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\bin\Debug\net7.0\Facade Pattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\bin\Debug\net7.0\Facade Pattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\Facade Pattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\Facade Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\Facade Pattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\Facade Pattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\Facade Pattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\Facade Pattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\refint\Facade Pattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\Facade Pattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\Facade Pattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Facade Pattern\obj\Debug\net7.0\ref\Facade Pattern.dll

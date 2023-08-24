@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\bin\Debug\net7.0\BridgePattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\bin\Debug\net7.0\BridgePattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\bin\Debug\net7.0\BridgePattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\bin\Debug\net7.0\BridgePattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\bin\Debug\net7.0\BridgePattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\BridgePattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\BridgePattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\BridgePattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\BridgePattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\BridgePattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\refint\BridgePattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\BridgePattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\BridgePattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\BridgePattern\obj\Debug\net7.0\ref\BridgePattern.dll

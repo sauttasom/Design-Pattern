@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeAnalysis.NetAnalyzers">
+      <HintPath>C:\Program Files\dotnet\sdk\5.0.414\Sdks\Microsoft.NET.Sdk\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

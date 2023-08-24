@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Assignment.FactoryMethod;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,169 +10,112 @@ namespace Assignment.BuilderPatterns
     // Interface
     public interface IBuilder
     {
-        public void resetBoat();
-        public void buildBody();
-        public void buildBilge();
-        public void buildGunnel();
-        public void buildStern();
-        public void buildRudder();
-        public void buildFishFishingEquipment(bool fishing);
-        public void buildRoomService(bool value);
+        public void reset();
+        public void BuildType(string swordType);
+        public void BuildMaterial();
+        public void BuildDecoration();
+        public void BuildTemplate();
+        public void BuildPerformCasting();
+        public void BuildEngraveAndCoat();
+        public Sword GetSword();
     }
 
-    public class FishingBoatBuilder : IBuilder
-    {
-        private  Boat _boat = new Boat();
-        public void buildFishFishingEquipment(bool fishing)
-        {
-
-            _boat.FishingEquipment = fishing;
-
-        }
-        public void buildRoomService(bool value)
-        {
-            _boat.RoomService = value;
-        }
-        public void buildBilge()
-        {
-            _boat.setBilge();
-        }
-
-        public void buildBody()
-        {
-            _boat.setBody();
-        }
-
-        public void buildGunnel()
-        {
-            _boat.setGunnel();
-        }
-
-        public void buildRudder()
-        {
-            _boat.setRudder();
-        }
-
-        public void buildStern()
-        {
-            _boat.setStern();
-        }
-
-        public void resetBoat()
-        {
-            _boat = new Boat();
-
-        }
-        public Boat GetFishingBoat()
-        {
-            var boat = _boat;
-            this.resetBoat();
-            return boat;
-        }
-
-    }
-
-    public class YachtBuilder : IBuilder
-    {
-        private Boat _boat = new Boat();
-
-
-        public void buildFishFishingEquipment(bool fishing)
-        {
-            _boat.FishingEquipment = fishing;
-
-        }
-        public void buildRoomService(bool isRoom)
-        {
-
-            _boat.RoomService = isRoom;
-        }
-        public void buildBilge()
-        {
-
-            _boat.setBilge();
-        }
-
-        public void buildBody()
-        {
-            _boat.setBody();
-        }
-
-        public void buildGunnel()
-        {
-            _boat.setGunnel();
-        }
-
-        public void buildRudder()
-        {
-            _boat.setRudder();
-        }
-
-        public void buildStern()
-        {
-            _boat.setStern();
-        }
-
-        public void resetBoat()
-        {
-            _boat = new Boat();
-        }
-
-        public Boat GetYacht()
-        {
-            var boat = _boat;
-            this.resetBoat();
-            return boat;
-        }
-      
-    }
-
-    public class Boat 
+    public class SwordBuilder : IBuilder
     {
 
-        public bool RoomService { get; set; }
-        public bool FishingEquipment { get; set; }
-        public void setBilge()
-        {
-            Console.WriteLine("BoatBuilder : buildBody");
-        }
-        public void setBody()
-        {
-            Console.WriteLine("BoatBuilder : buildBody");
-        }
-
-        public void setGunnel()
-        {
-            Console.WriteLine("BoatBuilder : builGunnel");
-        }
-
-        public void setRudder()
-        {
-            Console.WriteLine("BoatBuilder : builRudder");
-        }
-
-        public void setStern()
-        {
-            Console.WriteLine("BoatBuilder : builStern");
-        }
-        public void Show()
-        {
-            
-            if (RoomService)
-            {
-                Console.WriteLine("Create : Yacht Builder Success");
-            }
-            else
-            {
-                Console.WriteLine($"Create : Boat Fishing Builder Success");
-            }
-          
-
-        }
+        private Sword _sword = new Sword();
 
 
+
+        public void BuildEngraveAndCoat()
+        {
+            _sword.setEngraveAndCoat();
+        }
+        public void BuildDecoration()
+        {
+            _sword.setDecoration();
+        }
+
+        public void BuildMaterial()
+        {
+            _sword.setMaterial(false,true);
+        }
+
+        public void BuildPerformCasting()
+        {
+            _sword.setPerformCasting();
+        }
+
+        public void BuildTemplate()
+        {
+            _sword.setTemplate();
+        }
+
+        public void BuildType(string swordType)
+        {
+            _sword.setSwordType(swordType);
+        }
+
+        public Sword GetSword()
+        {
+            var sword = _sword;
+            this.reset();
+            return sword;
+        }
+
+        public void reset()
+        {
+            _sword = new Sword();
+        }
+    }
+
+    public class ToySwordBuilder : IBuilder
+    {
+        private Sword _toy = new Sword();
+ 
+        public void BuildEngraveAndCoat()
+        {
+            _toy.setEngraveAndCoat();
+        }
+        public void BuildDecoration()
+        {
+            _toy.setDecoration();
+        }
+
+        public void BuildMaterial()
+        {
+            _toy.setMaterial(true, false);
+        }
+
+        public void BuildPerformCasting()
+        {
+            _toy.setPerformCasting();
+        }
+
+        public void BuildTemplate()
+        {
+            _toy.setTemplate();
+        }
+
+        public void BuildType(string swordType)
+        {
+            _toy.setSwordType(swordType);
+        }
+
+        public Sword GetSword()
+        {
+            var toy  = _toy;
+            this.reset();
+            return toy;
+        }
+
+        public void reset()
+        {
+            _toy = new Sword();
+        }
 
     }
+
 
 
 }

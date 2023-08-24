@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cos4311\\FactoryMethod\\ConsoleApp1\\ConsoleApp1\\Assignment.csproj",
+      "projectUniqueName": "D:\\Cos4311\\Github\\Cos4311HW\\ConsoleApp1\\ConsoleApp1\\Assignment.csproj",
       "projectName": "Assignment",
-      "projectPath": "D:\\Cos4311\\FactoryMethod\\ConsoleApp1\\ConsoleApp1\\Assignment.csproj",
+      "projectPath": "D:\\Cos4311\\Github\\Cos4311HW\\ConsoleApp1\\ConsoleApp1\\Assignment.csproj",
       "packagesPath": "C:\\Users\\Thanawin\\.nuget\\packages\\",
-      "outputPath": "D:\\Cos4311\\FactoryMethod\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Cos4311\\Github\\Cos4311HW\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

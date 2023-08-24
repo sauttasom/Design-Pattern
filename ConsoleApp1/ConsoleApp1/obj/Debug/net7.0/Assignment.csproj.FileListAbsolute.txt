@@ -1,0 +1,5 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Assignment.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Assignment.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Assignment.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Assignment.csproj.CoreCompileInputs.cache

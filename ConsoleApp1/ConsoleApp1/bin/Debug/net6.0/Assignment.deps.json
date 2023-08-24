@@ -7,8 +7,60 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Assignment/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.NetAnalyzers": "5.0.4.11703"
+        },
         "runtime": {
           "Assignment.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.NetAnalyzers/5.0.4.11703": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.NetAnalyzers.dll": {
+            "assemblyVersion": "5.0.4.11703",
+            "fileVersion": "5.0.4.11703"
+          }
+        },
+        "resources": {
+          "cs/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "cs"
+          },
+          "de/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "de"
+          },
+          "es/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "es"
+          },
+          "fr/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "fr"
+          },
+          "it/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "it"
+          },
+          "ja/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "ko"
+          },
+          "pl/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "pl"
+          },
+          "pt-BR/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "ru/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "tr"
+          },
+          "zh-Hans/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "zh-Hant/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "zh-Hant"
+          }
         }
       }
     }
@@ -16,6 +68,11 @@
   "libraries": {
     "Assignment/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.NetAnalyzers/5.0.4.11703": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
