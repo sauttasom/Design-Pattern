@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\bin\Debug\net7.0\PoxyPattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\bin\Debug\net7.0\PoxyPattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\bin\Debug\net7.0\PoxyPattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\bin\Debug\net7.0\PoxyPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\bin\Debug\net7.0\PoxyPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\PoxyPattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\PoxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\PoxyPattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\PoxyPattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\PoxyPattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\PoxyPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\refint\PoxyPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\PoxyPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\PoxyPattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\PoxyPattern\obj\Debug\net7.0\ref\PoxyPattern.dll

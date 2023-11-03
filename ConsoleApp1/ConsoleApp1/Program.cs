@@ -63,34 +63,26 @@ internal class Program
 
         /// </summary>
         /// Building  Pattern
-        /* */
+
         Director director = new Director();
-        Sword sword = new Sword();
 
-        var steelSword = new SwordBuilder();
-        director.MakeKatana(steelSword);
-        sword = steelSword.GetSword();
-        sword.Show();
+        
+        SwordBuilder swordBuilder = new SwordBuilder();
+        ToySwordBuilder toyBuilder = new ToySwordBuilder();
 
-
-
-        director.MakeBroadSword(steelSword);
-        sword = steelSword.GetSword();
-        sword.Show();
-
-        var toySword = new ToySwordBuilder();
-        director.MakeKatana(toySword);
-        sword = toySword.GetSword();
-        sword.Show();
+        director.MakeKatana(swordBuilder);
+        swordBuilder.GetSword().Show();
 
 
+        director.MakeKatana(toyBuilder);
+        toyBuilder.GetSword().Show();
 
-        director.MakeKrabi(toySword);
-        sword = toySword.GetSword();
-        sword.Show();
+        director.MakeKrabi(swordBuilder);
+        swordBuilder.GetSword().Show();
 
-
-
+        director.MakeKrabi(toyBuilder);
+        toyBuilder.GetSword().Show();
+        
 
         /// </summary>
         /// Prototy  Pattern
@@ -141,17 +133,25 @@ internal class Program
         /// <summary>
         /// Adapter Pattern
         /// </summary>
-        /*
-        Car car = new Car("Wheel", "BodyCar", "Color", "Mirror", 1100000, "SteeringWheel1");
-        car.Show();
-        car.EnergySystem(new RefulStstemAdpter(new RefulSystem()));
+        /// 
+        
+        Car car = new Car("Wheel", "BodyCar", "Color", "Mirror", 1100000, "SteeringWheel1",600);
+        //var reful = new RefulSystem(5);
+        var refulAdapter = new RefulStstemAdpter(new RefulSystem(5));
 
+        //var charging = new ChargingSystem(100);
+       
+        car.SetEnergySystem(refulAdapter);
+        car.Show();
+  
         var car2 = car.Clone();
         car2.Price = 200000000;
         car2.SteeringWheel = "SteeringWheelCar2";
+        var chargingAdapter = new ChargingSystemAdapter(new ChargingSystem());
+        car2.SetEnergySystem(chargingAdapter);
         car2.Show();
-        car2.EnergySystem(new ChargingSystemAdapter(new ChargingSystem()));
-        */
+        
+
         Console.ReadLine();
     }
 

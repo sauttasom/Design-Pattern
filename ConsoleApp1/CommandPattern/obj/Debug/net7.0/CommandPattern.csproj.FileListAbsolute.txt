@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\bin\Debug\net7.0\CommandPattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\bin\Debug\net7.0\CommandPattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\bin\Debug\net7.0\CommandPattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\bin\Debug\net7.0\CommandPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\bin\Debug\net7.0\CommandPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\CommandPattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\CommandPattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\CommandPattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\CommandPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\refint\CommandPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\CommandPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\CommandPattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\CommandPattern\obj\Debug\net7.0\ref\CommandPattern.dll

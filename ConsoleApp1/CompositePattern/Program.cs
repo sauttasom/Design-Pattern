@@ -1,39 +1,73 @@
 ﻿
 
 using CompositePattern;
-var library = new Category("Composite Library","", false, false);
 
-bool isDVD = true;
-bool isBook = true;
+void ShowPath(FileSystemComponent component)
+{
+  
+    string codeFullPath = component.DisplayPath();
+    Console.WriteLine(codeFullPath);
+}
 
-var bookCategory = new Category(string.Empty, "ScienceBook", isBook, false);
-
-var novel = new Book("Great Expectations", "Charles Dickens", "97-3");
-var scienceBook = new Book("A Brief History of Time", "Stephen Hawking", "38016-3");
-
-bookCategory.AddComponent(novel);
-bookCategory.AddComponent(scienceBook);
+var rootFolder = new Folder("MyComputer");
 
 
-var dvdCategory = new Category(string.Empty, "Action DVD", false, isDVD);
+Folder diskD = new Folder("diskD:");
+Folder disk_emtry = new Folder("disk_emtry");
 
-var actionDVD = new DVD("Die Hard", "John McTiernan", "1988");
-var actionDVD2 = new DVD("Die Hard", "HIT MAN", "1988");
+rootFolder.AddComponent(diskD);
+rootFolder.AddComponent(disk_emtry);
 
-dvdCategory.AddComponent(actionDVD);
-dvdCategory.AddComponent(actionDVD2);
+Folder folderLecture = new Folder("Lecture");
+Folder folderMovie = new Folder("Movie");
 
-var dvdCategory2 = new Category(string.Empty, "Test DVD", false, isDVD);
-var testdvd = new DVD("Die Hard", "John Witch", "1988");
-dvdCategory2.AddComponent(testdvd);
+diskD.AddComponent(folderLecture);
+//diskD.AddComponent(folderMovie);
 
-library.AddComponent(bookCategory);
-library.AddComponent(dvdCategory);
-library.AddComponent(dvdCategory2);
-Console.WriteLine(library);
-library.ShowInfo();
 
-Console.WriteLine("-----Deleted Test DVD!---------");
-library.RemoveComponent(dvdCategory2);
-library.ShowInfo();
+Folder Folder_OOP = new Folder("Cos2101");
+Folder folder_DesignPattrn = new Folder("Cos4311");
+
+folderLecture.AddComponent(Folder_OOP);
+folderLecture.AddComponent(folder_DesignPattrn);
+
+
+Folder folder_code = new Folder("COS4311_Code");
+Folder folder_diagram = new Folder("COS4311_Diagram");
+
+folder_DesignPattrn.AddComponent(folder_code);
+//folder_DesignPattrn.AddComponent(folder_diagram);
+
+
+
+var file_code = new MyFile("Composite.cpp");
+var filedrawio = new MyFile("Composite.drawio");
+
+folder_code.AddComponent(file_code);
+folder_diagram.AddComponent(filedrawio);
+
+ShowPath(rootFolder);
+
+
+//--------Folder Movie---------------
+
+//var movie1 = new MyFile("John Wick");
+//var folder_anime = new Folder("folder_anime");
+
+//folderMovie.AddComponent(movie1);
+//folderMovie.AddComponent(folder_anime);
+
+//var anime1 = new MyFile("ChinCang");
+//folder_anime.AddComponent(anime1);
+
+
+
+
+//rootFolder.AddComponent(diskD);
+//rootFolder.AddComponent(disk_emtry);
+
+//Console.WriteLine(rootFolder.DisplayPath());
+
+
+
 

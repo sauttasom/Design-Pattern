@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\bin\Debug\net7.0\IteratorPattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\bin\Debug\net7.0\IteratorPattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\bin\Debug\net7.0\IteratorPattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\bin\Debug\net7.0\IteratorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\bin\Debug\net7.0\IteratorPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\IteratorPattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\IteratorPattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\IteratorPattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\IteratorPattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\IteratorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\refint\IteratorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\IteratorPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\IteratorPattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\IteratorPattern\obj\Debug\net7.0\ref\IteratorPattern.dll

@@ -11,13 +11,13 @@ namespace Assignment.BuilderPatterns
     public interface IBuilder
     {
         public void reset();
-        public void BuildType(string swordType);
+        public void BuildTsuba();
         public void BuildMaterial();
         public void BuildDecoration();
         public void BuildTemplate();
         public void BuildPerformCasting();
         public void BuildEngraveAndCoat();
-        public Sword GetSword();
+
     }
 
     public class SwordBuilder : IBuilder
@@ -51,9 +51,9 @@ namespace Assignment.BuilderPatterns
             _sword.setTemplate();
         }
 
-        public void BuildType(string swordType)
+        public void BuildTsuba()
         {
-            _sword.setSwordType(swordType);
+            _sword.setTsuba();
         }
 
         public Sword GetSword()
@@ -71,8 +71,8 @@ namespace Assignment.BuilderPatterns
 
     public class ToySwordBuilder : IBuilder
     {
-        private Sword _toy = new Sword();
- 
+        private Toy _toy = new Toy();
+        
         public void BuildEngraveAndCoat()
         {
             _toy.setEngraveAndCoat();
@@ -81,37 +81,44 @@ namespace Assignment.BuilderPatterns
         {
             _toy.setDecoration();
         }
+        public void BuildTsuba()
+        {
+            _toy.setTsuba();
+        }
 
         public void BuildMaterial()
         {
-            _toy.setMaterial(true, false);
+            _toy.setMaterial(true,true);
         }
 
         public void BuildPerformCasting()
         {
             _toy.setPerformCasting();
+         
         }
 
         public void BuildTemplate()
         {
             _toy.setTemplate();
+            _toy.Ligth = true;
+
         }
 
         public void BuildType(string swordType)
         {
-            _toy.setSwordType(swordType);
+            _toy.setSwordType();
         }
 
-        public Sword GetSword()
+        public Toy GetSword()
         {
-            var toy  = _toy;
+            var temptoy  = _toy;
             this.reset();
-            return toy;
+            return temptoy;
         }
 
         public void reset()
         {
-            _toy = new Sword();
+            _toy = new Toy();
         }
 
     }

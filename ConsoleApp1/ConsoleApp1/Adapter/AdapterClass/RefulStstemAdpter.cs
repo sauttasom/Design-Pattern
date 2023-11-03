@@ -8,21 +8,37 @@ namespace Assignment.Adapter.AdapterClass
 {
     public class RefulStstemAdpter : IAdpater
     {
+      
         private readonly RefulSystem _refulSystem;
+      
         public  RefulStstemAdpter(RefulSystem refulSystem)
         {
+
             _refulSystem = refulSystem;
         }
-        public void GetEnergySystem()
+        public double GetEnergySystem()
         {
-            _refulSystem.GetRefulSystem();
         
+            return  _refulSystem.GetRefulSystem() * 1000 ;
         }
     }
+
     public class RefulSystem {
-        public void GetRefulSystem()
+
+        private double _RefulLiter { get; set; }
+        public RefulSystem(int unit)
         {
-            Console.WriteLine("Car: RefulStstem");
+            _RefulLiter = unit;
+        }
+
+        public RefulSystem()
+        {
+            _RefulLiter = 1;
+        }
+     
+        public double  GetRefulSystem()
+        {
+            return _RefulLiter;
         }
     }
 

@@ -16,7 +16,7 @@ namespace Assignment.BuilderPatterns
             builder.BuildDecoration();
             builder.BuildEngraveAndCoat();
             builder.BuildPerformCasting();
-            builder.BuildType("Japan sword weapon");
+          
         }
         public void MakeBroadSword(IBuilder builder)
         {
@@ -26,7 +26,7 @@ namespace Assignment.BuilderPatterns
             builder.BuildDecoration();
             builder.BuildEngraveAndCoat();
             builder.BuildPerformCasting();
-            builder.BuildType("long sword weapon");
+           
         }
    
          public void MakeKrabi(IBuilder builder)
@@ -35,7 +35,7 @@ namespace Assignment.BuilderPatterns
             builder.BuildTemplate();
             builder.BuildMaterial();
             builder.BuildPerformCasting();
-            builder.BuildType("chinese sword weapon");
+            
         }
     }
 }

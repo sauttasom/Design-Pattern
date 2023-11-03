@@ -15,17 +15,26 @@ namespace Assignment.Adapter.AdapterClass
         {
             _chargingSystem = chargingSystem;
         }
-        public void GetEnergySystem()
+        public double GetEnergySystem()
         {
-            _chargingSystem.GetChargingSystem();
+           return  _chargingSystem.GetChargingSystem() / 100;
         }
     }
 
     public class ChargingSystem {
-
-        public void GetChargingSystem()
+        private double _Percent { get; set; }
+        public ChargingSystem()
         {
-            Console.WriteLine("Car: ChargingSystem");
+            _Percent = 100;
+        }
+        public  ChargingSystem(double unit)
+        {
+            _Percent = unit;    
+        }
+        public double GetChargingSystem()
+        {
+            
+            return _Percent;
         }
 
     }

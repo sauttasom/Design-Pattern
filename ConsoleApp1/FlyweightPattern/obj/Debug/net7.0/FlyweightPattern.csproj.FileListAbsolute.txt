@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\bin\Debug\net7.0\FlyweightPattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\bin\Debug\net7.0\FlyweightPattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\bin\Debug\net7.0\FlyweightPattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\bin\Debug\net7.0\FlyweightPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\bin\Debug\net7.0\FlyweightPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\FlyweightPattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\FlyweightPattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\FlyweightPattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\FlyweightPattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\FlyweightPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\refint\FlyweightPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\FlyweightPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\FlyweightPattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\FlyweightPattern\obj\Debug\net7.0\ref\FlyweightPattern.dll

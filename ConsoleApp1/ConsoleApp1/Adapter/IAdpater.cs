@@ -8,6 +8,6 @@ namespace Assignment.Adapter
 {
     public interface IAdpater
     {
-        public void GetEnergySystem();
+        public double GetEnergySystem();
     }
 }

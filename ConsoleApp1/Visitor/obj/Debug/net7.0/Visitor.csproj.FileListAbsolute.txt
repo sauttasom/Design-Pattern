@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\bin\Debug\net7.0\Visitor.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\bin\Debug\net7.0\Visitor.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\bin\Debug\net7.0\Visitor.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\bin\Debug\net7.0\Visitor.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\bin\Debug\net7.0\Visitor.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\Visitor.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\Visitor.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\Visitor.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\refint\Visitor.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\Visitor.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\Visitor.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\Visitor\obj\Debug\net7.0\ref\Visitor.dll

@@ -9,28 +9,38 @@ namespace Assignment.BuilderPatterns
     public class Sword
     {
 
-        private string  _Swordtype { get; set; }
-        private bool plasticBuild { get; set; }
-        private bool SteelBuild { get; set; }
-
+        private bool SteelMaterial { get; set; }
+        private bool Saya { get; set; }
+        private bool TitaniumMaterial { get; set; }
         public Sword() {
-            plasticBuild = false;
-            SteelBuild = false;
-            _Swordtype = string.Empty;
-        }
+
+            SteelMaterial = true;
+            TitaniumMaterial = false;
+            Saya = false;
+        }   
         public void setEngraveAndCoat()
         {
             Console.WriteLine("SwordBuilder : BuildEngraveAndCoat");
         }
-        public void  setSwordType(string type)
+        
+        public void setTsuba()
         {
-            _Swordtype = type;
-            Console.WriteLine("SwordBuilder : buildSwordtype");
+           
+            Console.WriteLine("SwordBuilder : buildTsuba");
         }
-        public void setMaterial(bool plastic , bool steel)
+        public void setMaterial(bool titanium ,bool saya)
         {
-            plasticBuild = plastic;
-            SteelBuild = steel;
+
+            if (!titanium)
+            {
+                SteelMaterial = true;
+            }
+            else
+            {
+                TitaniumMaterial = titanium;
+            }
+            Saya = saya;
+
             Console.WriteLine("SwordBuilder : buildMaterial");
         }
        
@@ -53,16 +63,11 @@ namespace Assignment.BuilderPatterns
 
         public void Show()
         {
-            Console.WriteLine($"Sword Type {_Swordtype}");
-            if (this.SteelBuild)
-            {
-                Console.WriteLine($"Sword BuildMaterial is Steel Sword");
-            }
-            if(this.plasticBuild)
-            {
-                Console.WriteLine($"Sword BuildMaterial is Toy Plastic  Sword");
-            }
-         
+            
+            Console.WriteLine($"--------Sword----------------");
+            if (TitaniumMaterial) Console.WriteLine("Sword Buiding  TitaniumMaterial  ");
+            if (SteelMaterial) Console.WriteLine("Sword Buiding SteelMaterial ");
+            if (Saya) Console.WriteLine("Sword have Saya ");
         }
     }
 }

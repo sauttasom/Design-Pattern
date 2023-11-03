@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\bin\Debug\net7.0\TemplateMethodPattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\bin\Debug\net7.0\TemplateMethodPattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\bin\Debug\net7.0\TemplateMethodPattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\bin\Debug\net7.0\TemplateMethodPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\bin\Debug\net7.0\TemplateMethodPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\TemplateMethodPattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\TemplateMethodPattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\TemplateMethodPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\refint\TemplateMethodPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\TemplateMethodPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\TemplateMethodPattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\TemplateMethodPattern\obj\Debug\net7.0\ref\TemplateMethodPattern.dll

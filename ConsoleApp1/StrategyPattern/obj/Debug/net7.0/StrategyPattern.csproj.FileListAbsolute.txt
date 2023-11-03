@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\refint\StrategyPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll
