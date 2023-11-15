@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\bin\Debug\net7.0\MediatorPattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\bin\Debug\net7.0\MediatorPattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\bin\Debug\net7.0\MediatorPattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\bin\Debug\net7.0\MediatorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\bin\Debug\net7.0\MediatorPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\MediatorPattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\MediatorPattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\MediatorPattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\MediatorPattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\MediatorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\refint\MediatorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\MediatorPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\MediatorPattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\MediatorPattern\obj\Debug\net7.0\ref\MediatorPattern.dll

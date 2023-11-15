@@ -1,0 +1,16 @@
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\bin\Debug\net5.0\MementoPattern.exe
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\bin\Debug\net5.0\MementoPattern.deps.json
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\bin\Debug\net5.0\MementoPattern.runtimeconfig.json
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\bin\Debug\net5.0\MementoPattern.runtimeconfig.dev.json
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\bin\Debug\net5.0\MementoPattern.dll
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\bin\Debug\net5.0\ref\MementoPattern.dll
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\bin\Debug\net5.0\MementoPattern.pdb
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\MementoPattern.csproj.AssemblyReference.cache
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\MementoPattern.AssemblyInfoInputs.cache
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\MementoPattern.AssemblyInfo.cs
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\MementoPattern.csproj.CoreCompileInputs.cache
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\MementoPattern.dll
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\ref\MementoPattern.dll
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\MementoPattern.pdb
+D:\Lecture\Cos4311\ConsoleApp1\MementoPattern\obj\Debug\net5.0\MementoPattern.genruntimeconfig.cache

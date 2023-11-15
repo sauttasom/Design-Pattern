@@ -1,0 +1,15 @@
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\bin\Debug\net6.0\VisitorPattern.exe
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\bin\Debug\net6.0\VisitorPattern.deps.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\bin\Debug\net6.0\VisitorPattern.runtimeconfig.json
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\bin\Debug\net6.0\VisitorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\bin\Debug\net6.0\VisitorPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\VisitorPattern.csproj.AssemblyReference.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\VisitorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\VisitorPattern.AssemblyInfoInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\VisitorPattern.AssemblyInfo.cs
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\VisitorPattern.csproj.CoreCompileInputs.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\VisitorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\refint\VisitorPattern.dll
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\VisitorPattern.pdb
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\VisitorPattern.genruntimeconfig.cache
+D:\Cos4311\Github\Cos4311HW\ConsoleApp1\VisitorPattern\obj\Debug\net6.0\ref\VisitorPattern.dll
