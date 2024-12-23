@@ -1,0 +1,90 @@
+<mxfile host="Electron" modified="2023-08-01T16:12:06.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="HfuNdus4m5k5wnbUEHsb" version="21.6.5" type="device">
+  <diagram name="Page-1" id="udkBrg2XiQwDzJatd2ej">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0J2taYZqLhxap7dWOBqm-1" value="MusicShopee" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="160" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-22" value="-color&lt;br&gt;-price&lt;br&gt;-type" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="0J2taYZqLhxap7dWOBqm-1" vertex="1">
+          <mxGeometry y="30" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkUiIKS0_ddVOP-A0ey3-1" value="+MusicShopee(color,price,type)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-1" vertex="1">
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pkUiIKS0_ddVOP-A0ey3-3" value="+getShop(color,price,type)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-1" vertex="1">
+          <mxGeometry y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-8" value="+clone():MusicShopee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-1" vertex="1">
+          <mxGeometry y="150" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pkUiIKS0_ddVOP-A0ey3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="0J2taYZqLhxap7dWOBqm-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-10" value="Guitar" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="520" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pkUiIKS0_ddVOP-A0ey3-8" value="-guitarString&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;-pickups&lt;br&gt;-fret" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="0J2taYZqLhxap7dWOBqm-10" vertex="1">
+          <mxGeometry y="30" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-12" value="+Guitar(guitarString,pickups,fret)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-10" vertex="1">
+          <mxGeometry y="80" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-13" value="+Guitar(MusicShopee)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-10" vertex="1">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-1" value="+clone():MusicShopee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-10" vertex="1">
+          <mxGeometry y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-14" value="BassGuitar" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="520" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pkUiIKS0_ddVOP-A0ey3-11" value="-bassString&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;-pickups&lt;br&gt;-tuning&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="0J2taYZqLhxap7dWOBqm-14" vertex="1">
+          <mxGeometry y="30" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-3" value="+BassGuitar(bassString,pickups,tuning)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-14" vertex="1">
+          <mxGeometry y="80" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-4" value="+BassGuitar(MusicShopee)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-14" vertex="1">
+          <mxGeometry y="110" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-2" value="+clone():MusicShopee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-14" vertex="1">
+          <mxGeometry y="140" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-18" value="OrderMusic" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="160" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-10" value="-product:List&amp;lt;MusicShopee&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="0J2taYZqLhxap7dWOBqm-18" vertex="1">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-19" value="+buyitem(m:MusicShopee)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-18" vertex="1">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0J2taYZqLhxap7dWOBqm-21" value="+viewProduct():MusicShopee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-18" vertex="1">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-11" value="+viewProduct():MusicShopee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="0J2taYZqLhxap7dWOBqm-18" vertex="1">
+          <mxGeometry y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pkUiIKS0_ddVOP-A0ey3-4" value="Drum" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="520" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pkUiIKS0_ddVOP-A0ey3-9" value="-drumstick&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;-drumhead&lt;br&gt;-brakedrum" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="pkUiIKS0_ddVOP-A0ey3-4" vertex="1">
+          <mxGeometry y="30" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-5" value="+Drum(drumstick,drumhead,brakedrum)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="pkUiIKS0_ddVOP-A0ey3-4" vertex="1">
+          <mxGeometry y="80" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-8" value="+Drum(MusicShopee)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="pkUiIKS0_ddVOP-A0ey3-4" vertex="1">
+          <mxGeometry y="110" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxuX-JwHPDN-3KL5uYos-9" value="+clone():MusicShopee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="pkUiIKS0_ddVOP-A0ey3-4" vertex="1">
+          <mxGeometry y="140" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
